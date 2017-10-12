@@ -3,7 +3,7 @@
 This repository contains code samples to demonstrate communication to Datalift 360 API.
 
 
-##INSTALLATION
+## INSTALLATION
 
 1. Clone this repository
 2. Intall dependencies `npm install`
